@@ -1,0 +1,4 @@
+baseURL = 'https://phonger.github.com'
+languageCode = 'en-us'
+title = "Phong's Blog"
+theme = 'ananke'
