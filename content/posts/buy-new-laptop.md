@@ -1,7 +1,7 @@
 +++
 title = 'Buy New Laptop'
 date = 2024-01-09T22:41:51+07:00
-draft = true
+draft = false
 +++
 
 ## Introduction
